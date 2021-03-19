@@ -1,1 +1,3 @@
 # Digital_Image_Processing_Course
+
+Introductory concepts, Applications of Digital Image Processing and Analysis. Basic concepts from the theory of two-dimensional signals and systems, image transformations. Basic information about the process and techniques of capturing a digital image. Image upgrade methods. Image restoration, presentation of basic techniques. Image compression (with and without losses). Reconstruction of 3-D bodies from two-dimensional projections (images). Edge detection and demarcation of image areas. Description of shapes. The basic structure of an image analysis and interpretation system. Elements of color theory and processing of color images.
